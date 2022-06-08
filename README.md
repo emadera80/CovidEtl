@@ -1,4 +1,4 @@
-#ETL of Covid Data
+# ETL of Covid Data
 
 1) Create Source s3 bucket where the covid data will land.  
 2) create destination s3 bucket where parquet files will will be written 
